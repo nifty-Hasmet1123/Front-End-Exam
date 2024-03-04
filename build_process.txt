@@ -1,0 +1,18 @@
+React Front End Exam
+
+vite + react + javascript
+
+Main Entry:
+main.jsx
+
+File to call the Components:
+App.jsx
+
+
+Process:
+    Separation of concern each to there own Components
+    -> SearchBar - filterable data based on the name.
+    -> Loading Screen - Simple loading screen when the fetchdata is still not outputting
+    -> Content - The fetchData from https://api.spacexdata.com/v4/launches/
+
+    Created Basic CSS for styles
