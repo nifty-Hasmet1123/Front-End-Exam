@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "live-server": "^1.2.2"
+  },
+  "name": "full-stack-developer-exam",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
